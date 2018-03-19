@@ -31,6 +31,7 @@ testGetAccountById 是我们的测试用例：注意和上面的 AccountServiceO
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = RootConfig.class)
 public class AspectTest {
+
     @Autowired
     private AspectService aspectService;
 
