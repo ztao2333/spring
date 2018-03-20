@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 /*
 使用spring中对Junit框架的整合功能
-除了junit4和spring的jar包，还需要spring-test.jar。引入如下依赖：
+除了junit4和spring的jar包，还需要spring-test.jar。
 
 @RunWith 注释标签是 Junit 提供的，用来说明此测试类的运行者，
     这里用了 SpringJUnit4ClassRunner，这个类是一个针对 Junit 运行环境的自定义扩展，
