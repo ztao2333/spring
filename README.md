@@ -1,5 +1,5 @@
-# 此项目是使用注解 java config,  详细注释Spring AOP, IOC. 
+# 此项目是使用注解 java config,  详细注释Spring AOP, EL表达式, IOC. 
 1. AOP 运行AspectTest
-
-2. mybatis druid数据源 java config
-3. slf4j和log4j2
+2. EL表达式运行ELTest.java
+3. mybatis druid数据源 java config
+4. slf4j和log4j2
