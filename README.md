@@ -2,5 +2,5 @@
 1. AOP 运行AspectTest
 2. EL表达式运行ELTest.java
 3. Profile运行ProfileTest.java
-. mybatis druid数据源 java config
-. slf4j和log4j2
+n. mybatis druid数据源 java config
+n. slf4j和log4j2
